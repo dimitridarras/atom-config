@@ -1,0 +1,13 @@
+{
+	"*": {
+		"exception-reporting": {
+			"userId": "7053f8f7-ed57-4226-858c-ad1e2963f758"
+		},
+		"sync-settings-folder-location": {
+			"folderPath": "/Users/focus/Desktop/github/atom-config"
+		},
+		"sync-settings": {
+			"useOtherLocation": true
+		}
+	}
+}
